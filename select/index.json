@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Blue Ain't Your Color (Official Music Video)",
+  "base_artist": "Keith Urban",
+  "createdAt": "2025-12-14T15:23:29.969114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blue Ain't Your Color",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/01_Blue_Ain't_Your_Color_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blue Ain't Your Color",
+      "artist": "Home Free",
+      "has_synced": true,
+      "path": "select/02_Blue_Ain't_Your_Color_Home_Free.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Ain’t Your Color",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/03_Blue_Ain’t_Your_Color_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Ain’t Your Color",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/04_Blue_Ain’t_Your_Color_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Ain’t Your Color",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/05_Blue_Ain’t_Your_Color_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blue Aint Your Color",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/06_Blue_Aint_Your_Color_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Ain’t Your Color",
+      "artist": "Home Free",
+      "has_synced": true,
+      "path": "select/07_Blue_Ain’t_Your_Color_Home_Free.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Ain't Your Color",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/08_Blue_Ain't_Your_Color_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "07 - Blue Ain't Your Color",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/09_07_-_Blue_Ain't_Your_Color_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blue Ain't Your Color",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/10_Blue_Ain't_Your_Color_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blue Ain't Your Color",
+      "artist": "Keith Urban",
+      "has_synced": false,
+      "path": "select/11_Blue_Ain't_Your_Color_Keith_Urban.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blue Ain't Your Color",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/12_Blue_Ain't_Your_Color_Various.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blue Ain't Your Color",
+      "artist": "Keith Urban",
+      "has_synced": false,
+      "path": "select/pl_01_Blue_Ain't_Your_Color_Keith_Urban.txt"
+    }
+  ]
+}
