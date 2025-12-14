@@ -1,0 +1,70 @@
+# Keith Urban – Blue Ain't Your Color (Official Music Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.23] I can see you over there
+[00:03.61] Starring at your drink
+[00:04.85] Watchin' that ice sink
+[00:06.28] All alone tonight
+[00:14.78] 
+[00:10.20] And chances are
+[00:12.18] You're sittin' here in this bar
+[00:13.98] 'Cause he ain't gonna treat you right
+[00:18.76] Well, it's probably not my place
+[00:21.14] But I'm gonna say it anyway
+[00:23.59] 'Cause you look like
+[00:27.74] You haven't felt the fire
+[00:29.71] Had a little fun
+[00:30.89] Hadn't had a smile in a little while
+[00:34.75] Baby
+[00:36.75] 
+[00:36.82] Blue looks good on the sky
+[00:43.82] Looks good on that neon buzzin' on the wall
+[00:47.64] But darling, it don't match your eyes
+[00:53.28] I'm tellin' you
+[00:57.34] You don't need that guy
+[01:01.58] It's so black and white
+[01:03.94] He's stealin' your thunder
+[01:06.74] Baby, blue ain't your color
+[01:20.24] 
+[01:15.79] I'm not tryna
+[01:16.69] Be another just
+[01:17.95] Pick you up
+[01:18.64] Kinda guy
+[01:19.31] Tryna drink you up
+[01:20.63] Tryna take you home
+[01:23.96] But I just don't understand
+[01:26.35] How another man
+[01:27.85] Can take your sun
+[01:29.00] And turn it ice cold
+[01:39.00] 
+[01:32.66] Well, I've had enough to drink
+[01:35.81] And it's makin' me think that I just might
+[01:41.39] Tell you if I were a painter I wouldn't change ya
+[01:45.86] I'd just paint you bright
+[01:49.08] Baby
+[01:51.08] 
+[01:50.97] 'Cause blue looks good on the sky
+[01:58.42] Looks good on that neon buzzin' on the wall
+[02:01.82] But darling, it don't match your eyes
+[02:07.57] I'm tellin' you
+[02:11.76] You don't need that guy
+[02:16.14] It's so black and white
+[02:17.86] He's stealin' your thunder
+[02:20.71] Baby, blue ain't your color no no no
+[02:33.97] It ain't your color baby
+[02:45.97] 
+[02:42.68] Baby, blue looks good on the sky
+[02:50.96] Looks good on that neon buzzin' on the wall
+[02:54.15] But darling, it don't match your eyes
+[02:59.93] I'm tellin' you
+[03:04.04] You don't need that guy
+[03:08.20] It's so black and white
+[03:10.58] He's stealin' your thunder
+[03:13.54] Baby, blue ain't your color
+[03:18.69] Blue ain't your color
+[03:27.14] Mmmm, oh no no baby
+[03:32.79] Come here baby
+[03:36.72] Let me light up your world
+```
